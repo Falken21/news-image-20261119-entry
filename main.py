@@ -1,10 +1,18 @@
-"""news-image-20261119 entry: copies the stored front-page image to the output.
+"""news-image-20261119 entry (final edition): copies the stored front-page
+image to the output.
 
 The repository holds the finished image as entry.png (JPEG bytes, detected
 by magic bytes per the competition rules). This program copies it, byte for
 byte, to entry.png inside $MAKEFUN_OUTPUT_DIR, or /output when the variable
 is not set. Standard library only, no network, deterministic: two runs
 produce identical bytes.
+
+Final edition — "THE WORLD TODAY, Thursday 19 November 2026": six
+photorealistic AI panels (no real press photographs) summarising the day's
+news — the Trump-Xi-Putin three-way summit in Shenzhen; the ICJ genocide
+ruling on Myanmar; the third strike on the Kerch bridge; Israeli tanks in
+central Gaza; Iran's retaliation after the US strike on Qeshm; and
+Anthropic's record $81bn IPO.
 """
 
 import os

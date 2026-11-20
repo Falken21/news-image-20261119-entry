@@ -10,20 +10,32 @@ An entry for the make.fun competition
 
 ## The image
 
-A newspaper front page, "THE WORLD TODAY — Thursday, 19 November 2026",
-with six photorealistic panels, one per story of the day:
+A newspaper front page, "THE WORLD TODAY — Thursday, 19 November 2026"
+(final edition), with six photorealistic AI panels — no real press
+photographs — one per story of the day:
 
-1. **GTA VI launches after 13 years** — the midnight queue outside a game
-   store under a neon vice-city billboard.
-2. **Voyager 1 reaches one light-day** — NASA's golden probe signalling
-   toward a distant Earth.
-3. **Trilateral talks at APEC Shenzhen** — the US, Chinese and Russian
-   flags behind one summit table, delegates seen from behind.
-4. **US, Iran trade fire again** — a carrier strike group in a strait at
-   dusk.
-5. **ICJ rules on Rohingya case** — the judges' bench in The Hague.
-6. **Jeffries set to make House history** — a Speaker's gavel before the
-   US Capitol at dawn.
+1. **Trump, Xi and Putin Hold First Three-Way Summit** — leaders of the
+   US, China and Russia meet in Shenzhen on the APEC sidelines and issue a
+   joint declaration on nuclear risks and energy flows.
+2. **World Court: Myanmar Committed Genocide** — the ICJ rules Myanmar's
+   2017 crackdown on the Rohingya was genocide; about 10,000 were killed
+   and more than 700,000 fled.
+3. **Third Strike in a Week Halts Kerch Bridge Rail** — Ukraine hits the
+   bridge to Crimea again and rail traffic is suspended, as Russian strikes
+   knock out power across Ukraine.
+4. **Israeli Tanks Push Into Central Gaza** — a ground operation near
+   Nuseirat goes beyond the ceasefire line as winter storms flood shelters
+   for displaced families.
+5. **Iran Retaliates After US Strike on Qeshm** — Tehran answers the strike
+   on Qeshm island with attacks on Kuwait and Bahrain; a Houthi missile
+   damages Riyadh's PIF Tower.
+6. **Anthropic's $81bn IPO Sets a Record** — the Claude maker's shares
+   debut on Nasdaq at $83 and close at $97.17 — the biggest stock-market
+   listing on record.
+
+The footer strip carries four one-line briefs: markets (S&P 500 7,323.63,
+Nasdaq +0.42%, Brent $89.59), Chelsea's 1–0 win over PSG, COP31's final
+stage, and unrest in Bangladesh.
 
 ## How it runs
 
